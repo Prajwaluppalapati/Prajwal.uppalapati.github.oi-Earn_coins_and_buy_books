@@ -1,0 +1,68 @@
+body{
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    background: #d2dae2;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    width: auto;
+    height: 120px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    border: 1px solid white;
+}
+span{
+    color: black;
+}
+img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: grey solid 1.3px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+a{
+    background: #6c5ce7;
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.row{
+    width: auto;
+    background: #d2dae2;
+    box-shadow: none;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+.two{
+    margin-top: 30px;
+}
+.create{
+    text-align: center;
+}
+.green{
+    color: rgb(72, 185, 6);
+    margin-top: 10px;
+}
+.red{
+    color: red;
+}
+.Create_Quiz{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 150px;
+}
